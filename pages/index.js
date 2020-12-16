@@ -16,8 +16,8 @@ export default function Home() {
           <div className="text-wrapper">
             <h1 className="title">Halo, saya Ajeng</h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web , fotographer , desainer
-              antar muka, dan penulis.
+              Saya seorang pekerja lepas pengembang web, aplikasi mobile,
+              desainer antar muka, dan pemain gitar.
             </p>
             <Link href="/contact">
               <a className="cta">Kontak Saya</a>
