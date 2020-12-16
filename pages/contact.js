@@ -17,8 +17,7 @@ function about() {
           <div className="text-wrapper w-full">
             <h1 className="title">Contact</h1>
             <p className="description">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Currently available for contract, part-time, or full-time job.
             </p>
             <ul className="contact-links">
               <li className="contact-item">Email: ajengrf12@gmail.com</li>
